@@ -3,7 +3,7 @@
   "short_name": "Santa Ana",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0A2540",
+  "theme_color": "#2F4F4F",
   "background_color": "#FFFFFF",
   "icons": [
     {
